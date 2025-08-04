@@ -4,7 +4,7 @@ I'm a **Frontend Developer** with 6+ years of experience building scalable and m
 
 I've led frontend teams, contributed to large production projects, and collaborated with global, distributed teams. I focus on writing clean, testable code and love turning product ideas into working solutions.
 
-Currently, I'm expanding my skill set toward **fullstack development** with **Node.js** with **Express** as my backend focus.
+Currently, I'm expanding my skill set toward **fullstack development** with **Node.js** and **Express** as my backend focus.
 
 ---
 
