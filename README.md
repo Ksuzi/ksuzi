@@ -13,4 +13,4 @@ Currently, I'm expanding my skill set toward **fullstack development** with **No
 * **Frontend:** React, Next.js, React Native, TypeScript, Zustand, Redux, Apollo Client, React-Query
 * **Backend (learning):** Node.js, Express
 * **Tools:** Vite, Turbo, REST/GraphQL, Jest, Vitest, React Testing Library
-* **UI:** Chakra UI, Ant Design, TailwindCSS, NativeBase, SCSS
+* **UI:** Chakra UI, Ant Design, TailwindCSS, SCSS
