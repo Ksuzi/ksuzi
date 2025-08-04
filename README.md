@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I’m Kseniia
 
-<!--
-**Ksuzi/ksuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** with 6+ years of experience building scalable and maintainable web applications. I specialize in **React**, **TypeScript**, and **Next.js**, with additional experience in **React Native** and modern frontend architecture.
 
-Here are some ideas to get you started:
+I've led frontend teams, contributed to large production projects, and collaborated with global, distributed teams. I focus on writing clean, testable code and love turning product ideas into working solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm expanding my skill set toward **fullstack development** with **Node.js** with **Express** as my backend focus.
+
+---
+
+### 🛠️ Tech Stack
+
+* **Frontend:** React, Next.js, React Native, TypeScript, Zustand, Redux, Apollo Client, React-Query
+* **Backend (learning):** Node.js, Express
+* **Tools:** Vite, Turbo, REST/GraphQL, Jest, Vitest, React Testing Library
+* **UI:** Chakra UI, Ant Design, TailwindCSS, NativeBase, SCSS
